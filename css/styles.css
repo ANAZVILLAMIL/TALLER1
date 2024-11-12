@@ -1,0 +1,22 @@
+body{
+
+    margin: 0;
+    padding: 0;
+}
+
+.p-1{
+    background-color: aqua;
+    color: blue;
+}
+
+ul{
+ background-color: darkviolet;
+}
+    .p-2{
+        color: black;
+     background-color: chocolate;
+        }
+.logo{
+    width: 50px;
+    height: 50px;
+}
